@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/John_Osborne/Documents/DEV/JAVA/TEXTBASEDGAMES/.metadata/.plugins/org.eclipse.jdt.core
+2731750547.index

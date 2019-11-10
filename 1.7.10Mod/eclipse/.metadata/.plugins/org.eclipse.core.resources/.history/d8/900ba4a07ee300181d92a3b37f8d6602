@@ -1,0 +1,7 @@
+package wiggo5.weaponsmod.item;
+
+import net.minecraft.item.Item;
+
+public class ItemsharpIronSword extends Item {
+
+}
