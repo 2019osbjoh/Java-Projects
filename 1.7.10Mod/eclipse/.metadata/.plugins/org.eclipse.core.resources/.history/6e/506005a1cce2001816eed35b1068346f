@@ -1,0 +1,31 @@
+package wiggo5.weaponsmod;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+
+@Mod(modid = "wm", name = "The Weapons Mod", version = "1.0")
+public class WeaponsMod 
+{
+	@EventHandler
+	public void preInit(FMLPreInitializationEvent event)
+	{
+		//item/block init and registering
+		//config handling
+	}
+	
+	@EventHandler
+	public void init(FMLInitializationEvent event)
+	{
+		//proxy, tileEntity, entity, GUI, and packet registering
+	}
+	
+	@EventHandler
+	public void postInit(FMLPostInitializationEvent event)
+	{
+		
+	}
+
+}

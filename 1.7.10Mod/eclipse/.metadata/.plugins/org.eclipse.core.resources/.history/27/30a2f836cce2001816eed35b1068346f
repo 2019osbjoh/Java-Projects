@@ -1,0 +1,8 @@
+package wiggo5.weaponsmod;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "wm", name = "The Weapons Mod", version = "1.0")
+public class WeaponsMod {
+
+}
